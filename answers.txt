@@ -1,29 +1,40 @@
 Pros of Agile Methodology:
-- It is flexible and there is not much rigidity
-- Frequent feedback and checks keeps team aligned
+- It is flexible and there is not much rigidity.
+- Frequent feedback and checks keeps team aligned.
 
 Cons of Agile Methodology:
-- It is less predictable in terms of timelines since project can be prone to change
-- It is hard to scale for bigger teams
+- It is less predictable in terms of timelines since project can be prone to change.
+- It is hard to scale for bigger teams.
 
 
 
 
-Scrum Master: Handles all scrum related tasks including JIRA tooling, facilitating sprints and meetings etc. Focuses more on the people in the team
+Scrum Master: Handles all scrum related tasks including JIRA tooling, facilitating sprints and meetings etc. Focuses more on the people in the team.
 
-Product Owner: Helps set direction for the team, handles releases and stakeholder management. Focuses more on the product
+Product Owner: Helps set direction for the team, handles releases and stakeholder management. Focuses more on the product.
 
 
 
 
 Sprint Planning Meeting:
-- Determine what to finsih in the coming sprint
-- Move stories from backlogs to current sprint and start the sprint
+- Determine what to finsih in the coming sprint.
+- Move stories from backlogs to current sprint and start the sprint.
 
 Daily Scrum/Standup Meeting:
-- Short 10 minute meeting that happens every day of the sprint
-- Team members discuss what they worked on and what they plan to finish that day
+- Short 10 minute meeting that happens every day of the sprint.
+- Team members discuss what they worked on and what they plan to finish that day.
 
 Sprint Retrospective Meeting:
-- Occurs at the end of the sprint
-- Discuss what was completed and move incomplete work to the backlog
+- Occurs at the end of the sprint.
+- Discuss what was completed and move incomplete work to the backlog.
+
+
+
+
+Epic: It represents high level or bigger pieces of work for the project.
+
+Story: A user story is the smallest unit of work that needs to be done.
+
+Bug: A bug is a problem which impairs the functions of a product.
+
+Task: A task represents work that may not offer value to the final procuts directly such as documentation.
